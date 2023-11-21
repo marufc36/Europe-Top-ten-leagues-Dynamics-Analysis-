@@ -1,0 +1,199 @@
+date,home_team,score,away_team
+13-08-2023,Arouca,4 - 3,Estoril
+20-08-2023,Vizela,2 - 2,Arouca
+26-08-2023,Arouca,1 - 1,Portimonense SC
+03-09-2023,Porto,1 - 1,Arouca
+17-09-2023,Arouca,0 - 1,Casa Pia
+22-09-2023,FC Famalicão,1 - 0,Arouca
+01-10-2023,Arouca,0 - 2,Chaves
+08-10-2023,Sp Lisbon,2 - 1,Arouca
+27-10-2023,Arouca,0 - 1,Moreirense
+06-11-2023,Farense,2 - 0,Arouca
+12-11-2023,Arouca,0 - 1,Sp Braga
+14-08-2023,Boavista,3 - 2,Benfica
+19-08-2023,Benfica,2 - 0,Estrela
+26-08-2023,Gil Vicente,2 - 3,Benfica
+02-09-2023,Benfica,4 - 0,Guimaraes
+16-09-2023,Vizela,1 - 2,Benfica
+24-09-2023,Portimonense SC,1 - 3,Benfica
+29-09-2023,Benfica,1 - 0,Porto
+07-10-2023,Estoril,0 - 1,Benfica
+28-10-2023,Benfica,1 - 1,Casa Pia
+04-11-2023,Chaves,0 - 2,Benfica
+12-11-2023,Benfica,2 - 1,Sp Lisbon
+14-08-2023,Boavista,3 - 2,Benfica
+19-08-2023,Portimonense SC,1 - 4,Boavista
+27-08-2023,Boavista,1 - 1,Casa Pia
+03-09-2023,Estoril,1 - 2,Boavista
+18-09-2023,Boavista,4 - 1,Chaves
+24-09-2023,Sp Braga,4 - 1,Boavista
+30-09-2023,Boavista,2 - 2,FC Famalicão
+06-10-2023,Moreirense,1 - 1,Boavista
+30-10-2023,Boavista,0 - 2,Sp Lisbon
+05-11-2023,Rio Ave,2 - 0,Boavista
+12-11-2023,Boavista,1 - 3,Farense
+12-08-2023,Farense,0 - 3,Casa Pia
+18-08-2023,Casa Pia,1 - 2,Sp Lisbon
+27-08-2023,Boavista,1 - 1,Casa Pia
+02-09-2023,Casa Pia,1 - 1,Rio Ave
+17-09-2023,Arouca,0 - 1,Casa Pia
+23-09-2023,Casa Pia,0 - 0,Guimaraes
+02-10-2023,Gil Vicente,2 - 0,Casa Pia
+08-10-2023,Casa Pia,0 - 1,Estrela
+28-10-2023,Benfica,1 - 1,Casa Pia
+05-11-2023,Casa Pia,0 - 1,Vizela
+10-11-2023,Estoril,4 - 0,Casa Pia
+13-08-2023,Rio Ave,2 - 0,Chaves
+19-08-2023,Chaves,2 - 4,Sp Braga
+26-08-2023,Farense,5 - 0,Chaves
+03-09-2023,Chaves,1 - 2,Moreirense
+18-09-2023,Boavista,4 - 1,Chaves
+24-09-2023,Chaves,2 - 2,Estrela
+01-10-2023,Arouca,0 - 2,Chaves
+07-10-2023,Chaves,4 - 2,Gil Vicente
+28-10-2023,Guimaraes,5 - 0,Chaves
+04-11-2023,Chaves,0 - 2,Benfica
+11-11-2023,Portimonense SC,2 - 1,Chaves
+13-08-2023,Arouca,4 - 3,Estoril
+20-08-2023,Estoril,2 - 0,Rio Ave
+25-08-2023,Estrela,2 - 1,Estoril
+03-09-2023,Estoril,1 - 2,Boavista
+17-09-2023,Gil Vicente,5 - 3,Estoril
+23-09-2023,Estoril,2 - 2,Vizela
+01-10-2023,Guimaraes,3 - 2,Estoril
+07-10-2023,Estoril,0 - 1,Benfica
+28-10-2023,Portimonense SC,1 - 0,Estoril
+03-11-2023,Porto,0 - 1,Estoril
+10-11-2023,Estoril,4 - 0,Casa Pia
+13-08-2023,Estrela,0 - 1,Guimaraes
+19-08-2023,Benfica,2 - 0,Estrela
+25-08-2023,Estrela,2 - 1,Estoril
+02-09-2023,Portimonense SC,1 - 1,Estrela
+15-09-2023,Estrela,0 - 1,Porto
+24-09-2023,Chaves,2 - 2,Estrela
+28-09-2023,Estrela,2 - 4,Sp Braga
+08-10-2023,Casa Pia,0 - 1,Estrela
+29-10-2023,Estrela,1 - 0,FC Famalicão
+05-11-2023,Sp Lisbon,3 - 2,Estrela
+11-11-2023,Estrela,0 - 1,Moreirense
+11-08-2023,Sp Braga,1 - 2,FC Famalicão
+21-08-2023,FC Famalicão,0 - 0,Moreirense
+27-08-2023,Sp Lisbon,1 - 0,FC Famalicão
+02-09-2023,FC Famalicão,1 - 0,Farense
+16-09-2023,Rio Ave,1 - 1,FC Famalicão
+22-09-2023,FC Famalicão,1 - 0,Arouca
+30-09-2023,Boavista,2 - 2,FC Famalicão
+08-10-2023,FC Famalicão,1 - 3,Guimaraes
+29-10-2023,Estrela,1 - 0,FC Famalicão
+04-11-2023,FC Famalicão,3 - 1,Gil Vicente
+11-11-2023,Vizela,0 - 0,FC Famalicão
+12-08-2023,Farense,0 - 3,Casa Pia
+20-08-2023,Porto,2 - 1,Farense
+26-08-2023,Farense,5 - 0,Chaves
+02-09-2023,FC Famalicão,1 - 0,Farense
+16-09-2023,Farense,3 - 1,Sp Braga
+23-09-2023,Moreirense,1 - 0,Farense
+30-09-2023,Farense,2 - 3,Sp Lisbon
+07-10-2023,Farense,0 - 0,Vizela
+29-10-2023,Rio Ave,3 - 4,Farense
+06-11-2023,Farense,2 - 0,Arouca
+12-11-2023,Boavista,1 - 3,Farense
+12-08-2023,Gil Vicente,5 - 0,Portimonense SC
+19-08-2023,Guimaraes,2 - 1,Gil Vicente
+26-08-2023,Gil Vicente,2 - 3,Benfica
+01-09-2023,Vizela,1 - 0,Gil Vicente
+17-09-2023,Gil Vicente,5 - 3,Estoril
+23-09-2023,Porto,2 - 1,Gil Vicente
+02-10-2023,Gil Vicente,2 - 0,Casa Pia
+07-10-2023,Chaves,4 - 2,Gil Vicente
+28-10-2023,Gil Vicente,3 - 3,Sp Braga
+04-11-2023,FC Famalicão,3 - 1,Gil Vicente
+12-11-2023,Gil Vicente,1 - 1,Rio Ave
+13-08-2023,Estrela,0 - 1,Guimaraes
+19-08-2023,Guimaraes,2 - 1,Gil Vicente
+27-08-2023,Guimaraes,2 - 0,Vizela
+02-09-2023,Benfica,4 - 0,Guimaraes
+17-09-2023,Guimaraes,1 - 2,Portimonense SC
+23-09-2023,Casa Pia,0 - 0,Guimaraes
+01-10-2023,Guimaraes,3 - 2,Estoril
+08-10-2023,FC Famalicão,1 - 3,Guimaraes
+28-10-2023,Guimaraes,5 - 0,Chaves
+05-11-2023,Moreirense,1 - 0,Guimaraes
+11-11-2023,Guimaraes,1 - 2,Porto
+14-08-2023,Moreirense,1 - 2,Porto
+21-08-2023,FC Famalicão,0 - 0,Moreirense
+03-09-2023,Chaves,1 - 2,Moreirense
+09-09-2023,Moreirense,2 - 3,Sp Braga
+17-09-2023,Sp Lisbon,3 - 0,Moreirense
+23-09-2023,Moreirense,1 - 0,Farense
+01-10-2023,Rio Ave,0 - 4,Moreirense
+06-10-2023,Moreirense,1 - 1,Boavista
+27-10-2023,Arouca,0 - 1,Moreirense
+05-11-2023,Moreirense,1 - 0,Guimaraes
+11-11-2023,Estrela,0 - 1,Moreirense
+12-08-2023,Gil Vicente,5 - 0,Portimonense SC
+19-08-2023,Portimonense SC,1 - 4,Boavista
+26-08-2023,Arouca,1 - 1,Portimonense SC
+02-09-2023,Portimonense SC,1 - 1,Estrela
+17-09-2023,Guimaraes,1 - 2,Portimonense SC
+24-09-2023,Portimonense SC,1 - 3,Benfica
+30-09-2023,Vizela,2 - 3,Portimonense SC
+08-10-2023,Porto,1 - 0,Portimonense SC
+28-10-2023,Portimonense SC,1 - 0,Estoril
+04-11-2023,Sp Braga,6 - 1,Portimonense SC
+11-11-2023,Portimonense SC,2 - 1,Chaves
+14-08-2023,Moreirense,1 - 2,Porto
+20-08-2023,Porto,2 - 1,Farense
+28-08-2023,Rio Ave,1 - 2,Porto
+03-09-2023,Porto,1 - 1,Arouca
+15-09-2023,Estrela,0 - 1,Porto
+23-09-2023,Porto,2 - 1,Gil Vicente
+29-09-2023,Benfica,1 - 0,Porto
+08-10-2023,Porto,1 - 0,Portimonense SC
+29-10-2023,Vizela,0 - 2,Porto
+03-11-2023,Porto,0 - 1,Estoril
+11-11-2023,Guimaraes,1 - 2,Porto
+13-08-2023,Rio Ave,2 - 0,Chaves
+20-08-2023,Estoril,2 - 0,Rio Ave
+28-08-2023,Rio Ave,1 - 2,Porto
+02-09-2023,Casa Pia,1 - 1,Rio Ave
+16-09-2023,Rio Ave,1 - 1,FC Famalicão
+25-09-2023,Sp Lisbon,2 - 0,Rio Ave
+01-10-2023,Rio Ave,0 - 4,Moreirense
+07-10-2023,Sp Braga,2 - 1,Rio Ave
+29-10-2023,Rio Ave,3 - 4,Farense
+05-11-2023,Rio Ave,2 - 0,Boavista
+12-11-2023,Gil Vicente,1 - 1,Rio Ave
+11-08-2023,Sp Braga,1 - 2,FC Famalicão
+19-08-2023,Chaves,2 - 4,Sp Braga
+03-09-2023,Sp Braga,1 - 1,Sp Lisbon
+09-09-2023,Moreirense,2 - 3,Sp Braga
+16-09-2023,Farense,3 - 1,Sp Braga
+24-09-2023,Sp Braga,4 - 1,Boavista
+28-09-2023,Estrela,2 - 4,Sp Braga
+07-10-2023,Sp Braga,2 - 1,Rio Ave
+28-10-2023,Gil Vicente,3 - 3,Sp Braga
+04-11-2023,Sp Braga,6 - 1,Portimonense SC
+12-11-2023,Arouca,0 - 1,Sp Braga
+12-08-2023,Sp Lisbon,3 - 2,Vizela
+18-08-2023,Casa Pia,1 - 2,Sp Lisbon
+27-08-2023,Sp Lisbon,1 - 0,FC Famalicão
+03-09-2023,Sp Braga,1 - 1,Sp Lisbon
+17-09-2023,Sp Lisbon,3 - 0,Moreirense
+25-09-2023,Sp Lisbon,2 - 0,Rio Ave
+30-09-2023,Farense,2 - 3,Sp Lisbon
+08-10-2023,Sp Lisbon,2 - 1,Arouca
+30-10-2023,Boavista,0 - 2,Sp Lisbon
+05-11-2023,Sp Lisbon,3 - 2,Estrela
+12-11-2023,Benfica,2 - 1,Sp Lisbon
+12-08-2023,Sp Lisbon,3 - 2,Vizela
+20-08-2023,Vizela,2 - 2,Arouca
+27-08-2023,Guimaraes,2 - 0,Vizela
+01-09-2023,Vizela,1 - 0,Gil Vicente
+16-09-2023,Vizela,1 - 2,Benfica
+23-09-2023,Estoril,2 - 2,Vizela
+30-09-2023,Vizela,2 - 3,Portimonense SC
+07-10-2023,Farense,0 - 0,Vizela
+29-10-2023,Vizela,0 - 2,Porto
+05-11-2023,Casa Pia,0 - 1,Vizela
+11-11-2023,Vizela,0 - 0,FC Famalicão

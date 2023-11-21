@@ -1,0 +1,261 @@
+date,home_team,score,away_team
+13-08-2023,Adana Demirspor,2 - 1,Rizespor
+21-08-2023,Ankaragucu,1 - 1,Adana Demirspor
+03-09-2023,Hatayspor,3 - 3,Adana Demirspor
+16-09-2023,Adana Demirspor,3 - 0,Pendikspor
+24-09-2023,Kasimpasa,2 - 1,Adana Demirspor
+27-09-2023,Adana Demirspor,4 - 2,Besiktas
+01-10-2023,Adana Demirspor,4 - 0,Alanyaspor
+06-10-2023,Adana Demirspor,1 - 0,Trabzonspor
+23-10-2023,Fatih Karagümrük,2 - 0,Adana Demirspor
+28-10-2023,Adana Demirspor,3 - 0,Konyaspor
+05-11-2023,Sivasspor,1 - 1,Adana Demirspor
+12-11-2023,Adana Demirspor,0 - 0,Fenerbahce
+26-11-2023,Kayserispor,? - ?,Adana Demirspor
+14-08-2023,Alanyaspor,2 - 0,Buyuksehyr
+19-08-2023,Rizespor,0 - 0,Alanyaspor
+27-08-2023,Alanyaspor,0 - 0,Hatayspor
+02-09-2023,Pendikspor,1 - 1,Alanyaspor
+17-09-2023,Alanyaspor,3 - 3,Kasimpasa
+24-09-2023,Alanyaspor,0 - 1,Fenerbahce
+01-10-2023,Adana Demirspor,4 - 0,Alanyaspor
+06-10-2023,Alanyaspor,2 - 1,Fatih Karagümrük
+23-10-2023,Trabzonspor,1 - 0,Alanyaspor
+28-10-2023,Alanyaspor,1 - 2,Sivasspor
+06-11-2023,Kayserispor,1 - 0,Alanyaspor
+11-11-2023,Alanyaspor,0 - 3,Gaziantep BBK
+25-11-2023,Galatasaray,? - ?,Alanyaspor
+12-08-2023,Kasimpasa,3 - 2,Ankaragucu
+21-08-2023,Ankaragucu,1 - 1,Adana Demirspor
+27-08-2023,Fatih Karagümrük,1 - 1,Ankaragucu
+03-09-2023,Ankaragucu,0 - 1,Fenerbahce
+18-09-2023,Sivasspor,1 - 3,Ankaragucu
+24-09-2023,Ankaragucu,1 - 1,Konyaspor
+30-09-2023,Galatasaray,2 - 1,Ankaragucu
+07-10-2023,Ankaragucu,3 - 0,Kayserispor
+22-10-2023,İstanbulspor,2 - 1,Ankaragucu
+29-10-2023,Ankaragucu,2 - 0,Samsunspor
+05-11-2023,Buyuksehyr,3 - 3,Ankaragucu
+10-11-2023,Ankaragucu,0 - 4,Antalyaspor
+25-11-2023,Gaziantep BBK,? - ?,Ankaragucu
+11-08-2023,Trabzonspor,1 - 0,Antalyaspor
+18-08-2023,Antalyaspor,1 - 1,Konyaspor
+26-08-2023,Sivasspor,1 - 1,Antalyaspor
+02-09-2023,Antalyaspor,1 - 1,Kayserispor
+17-09-2023,Fenerbahce,3 - 2,Antalyaspor
+23-09-2023,Antalyaspor,2 - 0,Samsunspor
+30-09-2023,İstanbulspor,1 - 2,Antalyaspor
+07-10-2023,Antalyaspor,0 - 2,Galatasaray
+21-10-2023,Gaziantep BBK,1 - 0,Antalyaspor
+29-10-2023,Antalyaspor,1 - 0,Buyuksehyr
+05-11-2023,Antalyaspor,3 - 2,Besiktas
+10-11-2023,Ankaragucu,0 - 4,Antalyaspor
+26-11-2023,Antalyaspor,? - ?,Rizespor
+14-08-2023,Fatih Karagümrük,0 - 1,Besiktas
+20-08-2023,Besiktas,1 - 1,Pendikspor
+03-09-2023,Besiktas,2 - 0,Sivasspor
+17-09-2023,Trabzonspor,3 - 0,Besiktas
+24-09-2023,Besiktas,2 - 1,Kayserispor
+27-09-2023,Adana Demirspor,4 - 2,Besiktas
+01-10-2023,Konyaspor,0 - 2,Besiktas
+08-10-2023,Besiktas,2 - 0,İstanbulspor
+21-10-2023,Galatasaray,2 - 1,Besiktas
+30-10-2023,Besiktas,2 - 0,Gaziantep BBK
+05-11-2023,Antalyaspor,3 - 2,Besiktas
+12-11-2023,Besiktas,1 - 0,Buyuksehyr
+26-11-2023,Samsunspor,? - ?,Besiktas
+14-08-2023,Alanyaspor,2 - 0,Buyuksehyr
+20-08-2023,Buyuksehyr,0 - 2,Fatih Karagümrük
+02-09-2023,Buyuksehyr,0 - 1,Konyaspor
+17-09-2023,İstanbulspor,0 - 2,Buyuksehyr
+23-09-2023,Buyuksehyr,1 - 2,Galatasaray
+28-09-2023,Fenerbahce,4 - 0,Buyuksehyr
+02-10-2023,Kayserispor,0 - 0,Buyuksehyr
+07-10-2023,Buyuksehyr,2 - 0,Gaziantep BBK
+22-10-2023,Samsunspor,0 - 0,Buyuksehyr
+29-10-2023,Antalyaspor,1 - 0,Buyuksehyr
+05-11-2023,Buyuksehyr,3 - 3,Ankaragucu
+12-11-2023,Besiktas,1 - 0,Buyuksehyr
+27-11-2023,Buyuksehyr,? - ?,Pendikspor
+14-08-2023,Fatih Karagümrük,0 - 1,Besiktas
+20-08-2023,Buyuksehyr,0 - 2,Fatih Karagümrük
+27-08-2023,Fatih Karagümrük,1 - 1,Ankaragucu
+01-09-2023,Rizespor,1 - 0,Fatih Karagümrük
+18-09-2023,Fatih Karagümrük,0 - 0,Hatayspor
+23-09-2023,Pendikspor,1 - 1,Fatih Karagümrük
+01-10-2023,Fatih Karagümrük,2 - 3,Kasimpasa
+06-10-2023,Alanyaspor,2 - 1,Fatih Karagümrük
+23-10-2023,Fatih Karagümrük,2 - 0,Adana Demirspor
+29-10-2023,Fatih Karagümrük,0 - 0,Trabzonspor
+05-11-2023,Konyaspor,1 - 1,Fatih Karagümrük
+11-11-2023,Fatih Karagümrük,3 - 0,Sivasspor
+26-11-2023,Fenerbahce,? - ?,Fatih Karagümrük
+13-08-2023,Fenerbahce,2 - 1,Gaziantep BBK
+21-08-2023,Samsunspor,0 - 2,Fenerbahce
+03-09-2023,Ankaragucu,0 - 1,Fenerbahce
+17-09-2023,Fenerbahce,3 - 2,Antalyaspor
+24-09-2023,Alanyaspor,0 - 1,Fenerbahce
+28-09-2023,Fenerbahce,4 - 0,Buyuksehyr
+01-10-2023,Fenerbahce,5 - 0,Rizespor
+08-10-2023,Kasimpasa,0 - 2,Fenerbahce
+22-10-2023,Fenerbahce,4 - 2,Hatayspor
+29-10-2023,Pendikspor,0 - 5,Fenerbahce
+04-11-2023,Fenerbahce,2 - 3,Trabzonspor
+12-11-2023,Adana Demirspor,0 - 0,Fenerbahce
+26-11-2023,Fenerbahce,? - ?,Fatih Karagümrük
+12-08-2023,Kayserispor,0 - 0,Galatasaray
+19-08-2023,Galatasaray,2 - 0,Trabzonspor
+02-09-2023,Gaziantep BBK,0 - 3,Galatasaray
+16-09-2023,Galatasaray,4 - 2,Samsunspor
+23-09-2023,Buyuksehyr,1 - 2,Galatasaray
+26-09-2023,İstanbulspor,0 - 1,Galatasaray
+30-09-2023,Galatasaray,2 - 1,Ankaragucu
+07-10-2023,Antalyaspor,0 - 2,Galatasaray
+21-10-2023,Galatasaray,2 - 1,Besiktas
+28-10-2023,Rizespor,0 - 1,Galatasaray
+03-11-2023,Galatasaray,2 - 1,Kasimpasa
+11-11-2023,Hatayspor,2 - 1,Galatasaray
+25-11-2023,Galatasaray,? - ?,Alanyaspor
+13-08-2023,Fenerbahce,2 - 1,Gaziantep BBK
+20-08-2023,Gaziantep BBK,1 - 3,Sivasspor
+25-08-2023,Konyaspor,2 - 0,Gaziantep BBK
+02-09-2023,Gaziantep BBK,0 - 3,Galatasaray
+16-09-2023,Kayserispor,2 - 0,Gaziantep BBK
+22-09-2023,Gaziantep BBK,2 - 0,İstanbulspor
+29-09-2023,Samsunspor,1 - 2,Gaziantep BBK
+07-10-2023,Buyuksehyr,2 - 0,Gaziantep BBK
+21-10-2023,Gaziantep BBK,1 - 0,Antalyaspor
+30-10-2023,Besiktas,2 - 0,Gaziantep BBK
+06-11-2023,Gaziantep BBK,2 - 0,Rizespor
+11-11-2023,Alanyaspor,0 - 3,Gaziantep BBK
+25-11-2023,Gaziantep BBK,? - ?,Ankaragucu
+12-08-2023,Pendikspor,1 - 5,Hatayspor
+19-08-2023,Hatayspor,0 - 0,Kasimpasa
+27-08-2023,Alanyaspor,0 - 0,Hatayspor
+03-09-2023,Hatayspor,3 - 3,Adana Demirspor
+18-09-2023,Fatih Karagümrük,0 - 0,Hatayspor
+25-09-2023,Hatayspor,3 - 2,Trabzonspor
+30-09-2023,Sivasspor,0 - 0,Hatayspor
+08-10-2023,Hatayspor,3 - 1,Konyaspor
+22-10-2023,Fenerbahce,4 - 2,Hatayspor
+27-10-2023,Hatayspor,1 - 2,Kayserispor
+04-11-2023,Samsunspor,2 - 1,Hatayspor
+11-11-2023,Hatayspor,2 - 1,Galatasaray
+25-11-2023,İstanbulspor,? - ?,Hatayspor
+12-08-2023,Kasimpasa,3 - 2,Ankaragucu
+19-08-2023,Hatayspor,0 - 0,Kasimpasa
+26-08-2023,Kasimpasa,1 - 1,Pendikspor
+01-09-2023,Kasimpasa,1 - 5,Trabzonspor
+17-09-2023,Alanyaspor,3 - 3,Kasimpasa
+24-09-2023,Kasimpasa,2 - 1,Adana Demirspor
+01-10-2023,Fatih Karagümrük,2 - 3,Kasimpasa
+08-10-2023,Kasimpasa,0 - 2,Fenerbahce
+22-10-2023,Sivasspor,0 - 1,Kasimpasa
+27-10-2023,Kasimpasa,3 - 1,İstanbulspor
+03-11-2023,Galatasaray,2 - 1,Kasimpasa
+11-11-2023,Kasimpasa,3 - 4,Kayserispor
+25-11-2023,Konyaspor,? - ?,Kasimpasa
+12-08-2023,Kayserispor,0 - 0,Galatasaray
+18-08-2023,İstanbulspor,1 - 1,Kayserispor
+27-08-2023,Kayserispor,2 - 1,Samsunspor
+02-09-2023,Antalyaspor,1 - 1,Kayserispor
+16-09-2023,Kayserispor,2 - 0,Gaziantep BBK
+24-09-2023,Besiktas,2 - 1,Kayserispor
+02-10-2023,Kayserispor,0 - 0,Buyuksehyr
+07-10-2023,Ankaragucu,3 - 0,Kayserispor
+21-10-2023,Kayserispor,3 - 1,Rizespor
+27-10-2023,Hatayspor,1 - 2,Kayserispor
+06-11-2023,Kayserispor,1 - 0,Alanyaspor
+11-11-2023,Kasimpasa,3 - 4,Kayserispor
+26-11-2023,Kayserispor,? - ?,Adana Demirspor
+12-08-2023,Konyaspor,1 - 1,İstanbulspor
+18-08-2023,Antalyaspor,1 - 1,Konyaspor
+25-08-2023,Konyaspor,2 - 0,Gaziantep BBK
+02-09-2023,Buyuksehyr,0 - 1,Konyaspor
+16-09-2023,Konyaspor,1 - 2,Rizespor
+24-09-2023,Ankaragucu,1 - 1,Konyaspor
+01-10-2023,Konyaspor,0 - 2,Besiktas
+08-10-2023,Hatayspor,3 - 1,Konyaspor
+21-10-2023,Konyaspor,1 - 2,Pendikspor
+28-10-2023,Adana Demirspor,3 - 0,Konyaspor
+05-11-2023,Konyaspor,1 - 1,Fatih Karagümrük
+10-11-2023,Trabzonspor,2 - 1,Konyaspor
+25-11-2023,Konyaspor,? - ?,Kasimpasa
+12-08-2023,Pendikspor,1 - 5,Hatayspor
+20-08-2023,Besiktas,1 - 1,Pendikspor
+26-08-2023,Kasimpasa,1 - 1,Pendikspor
+02-09-2023,Pendikspor,1 - 1,Alanyaspor
+16-09-2023,Adana Demirspor,3 - 0,Pendikspor
+23-09-2023,Pendikspor,1 - 1,Fatih Karagümrük
+30-09-2023,Trabzonspor,2 - 1,Pendikspor
+07-10-2023,Pendikspor,2 - 3,Sivasspor
+21-10-2023,Konyaspor,1 - 2,Pendikspor
+29-10-2023,Pendikspor,0 - 5,Fenerbahce
+04-11-2023,İstanbulspor,2 - 4,Pendikspor
+12-11-2023,Pendikspor,1 - 0,Samsunspor
+27-11-2023,Buyuksehyr,? - ?,Pendikspor
+13-08-2023,Adana Demirspor,2 - 1,Rizespor
+19-08-2023,Rizespor,0 - 0,Alanyaspor
+26-08-2023,Trabzonspor,2 - 3,Rizespor
+01-09-2023,Rizespor,1 - 0,Fatih Karagümrük
+16-09-2023,Konyaspor,1 - 2,Rizespor
+23-09-2023,Rizespor,1 - 1,Sivasspor
+01-10-2023,Fenerbahce,5 - 0,Rizespor
+08-10-2023,Rizespor,1 - 0,Samsunspor
+21-10-2023,Kayserispor,3 - 1,Rizespor
+28-10-2023,Rizespor,0 - 1,Galatasaray
+06-11-2023,Gaziantep BBK,2 - 0,Rizespor
+12-11-2023,Rizespor,1 - 0,İstanbulspor
+26-11-2023,Antalyaspor,? - ?,Rizespor
+13-08-2023,Sivasspor,1 - 1,Samsunspor
+21-08-2023,Samsunspor,0 - 2,Fenerbahce
+27-08-2023,Kayserispor,2 - 1,Samsunspor
+16-09-2023,Galatasaray,4 - 2,Samsunspor
+23-09-2023,Antalyaspor,2 - 0,Samsunspor
+29-09-2023,Samsunspor,1 - 2,Gaziantep BBK
+08-10-2023,Rizespor,1 - 0,Samsunspor
+22-10-2023,Samsunspor,0 - 0,Buyuksehyr
+29-10-2023,Ankaragucu,2 - 0,Samsunspor
+04-11-2023,Samsunspor,2 - 1,Hatayspor
+08-11-2023,Samsunspor,2 - 1,İstanbulspor
+12-11-2023,Pendikspor,1 - 0,Samsunspor
+26-11-2023,Samsunspor,? - ?,Besiktas
+13-08-2023,Sivasspor,1 - 1,Samsunspor
+20-08-2023,Gaziantep BBK,1 - 3,Sivasspor
+26-08-2023,Sivasspor,1 - 1,Antalyaspor
+03-09-2023,Besiktas,2 - 0,Sivasspor
+18-09-2023,Sivasspor,1 - 3,Ankaragucu
+23-09-2023,Rizespor,1 - 1,Sivasspor
+30-09-2023,Sivasspor,0 - 0,Hatayspor
+07-10-2023,Pendikspor,2 - 3,Sivasspor
+22-10-2023,Sivasspor,0 - 1,Kasimpasa
+28-10-2023,Alanyaspor,1 - 2,Sivasspor
+05-11-2023,Sivasspor,1 - 1,Adana Demirspor
+11-11-2023,Fatih Karagümrük,3 - 0,Sivasspor
+27-11-2023,Sivasspor,? - ?,Trabzonspor
+11-08-2023,Trabzonspor,1 - 0,Antalyaspor
+19-08-2023,Galatasaray,2 - 0,Trabzonspor
+26-08-2023,Trabzonspor,2 - 3,Rizespor
+01-09-2023,Kasimpasa,1 - 5,Trabzonspor
+17-09-2023,Trabzonspor,3 - 0,Besiktas
+25-09-2023,Hatayspor,3 - 2,Trabzonspor
+30-09-2023,Trabzonspor,2 - 1,Pendikspor
+06-10-2023,Adana Demirspor,1 - 0,Trabzonspor
+23-10-2023,Trabzonspor,1 - 0,Alanyaspor
+29-10-2023,Fatih Karagümrük,0 - 0,Trabzonspor
+04-11-2023,Fenerbahce,2 - 3,Trabzonspor
+10-11-2023,Trabzonspor,2 - 1,Konyaspor
+27-11-2023,Sivasspor,? - ?,Trabzonspor
+12-08-2023,Konyaspor,1 - 1,İstanbulspor
+18-08-2023,İstanbulspor,1 - 1,Kayserispor
+17-09-2023,İstanbulspor,0 - 2,Buyuksehyr
+22-09-2023,Gaziantep BBK,2 - 0,İstanbulspor
+26-09-2023,İstanbulspor,0 - 1,Galatasaray
+30-09-2023,İstanbulspor,1 - 2,Antalyaspor
+08-10-2023,Besiktas,2 - 0,İstanbulspor
+22-10-2023,İstanbulspor,2 - 1,Ankaragucu
+27-10-2023,Kasimpasa,3 - 1,İstanbulspor
+04-11-2023,İstanbulspor,2 - 4,Pendikspor
+08-11-2023,Samsunspor,2 - 1,İstanbulspor
+12-11-2023,Rizespor,1 - 0,İstanbulspor
+25-11-2023,İstanbulspor,? - ?,Hatayspor
