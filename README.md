@@ -1,2 +1,5 @@
 # Europe-Top-ten-leagues-Dynamics-Analysis-
-Tableau view:https://public.tableau.com/app/profile/md.maruf.chowdhury/viz/Europetop10FootballLeague/Europeto10leaguesthisseason?publish=yes
+1:clone the repo
+```bash
+git clone https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-.git
+
