@@ -1,4 +1,4 @@
-# Europe-Top-Ten-Leagues-Of-Europe(Season23/24)
+# Europe-Top-Ten-Leagues-Dynamics-Analysis
 
 
 1:Clone the repo
