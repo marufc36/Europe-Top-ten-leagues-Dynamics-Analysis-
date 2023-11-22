@@ -14,6 +14,11 @@ python3 -m venv .venv
 ```bash
 pip3 install requirments.txt
 ```
+4:Preprocess the data
+```bash
+https://colab.research.google.com/drive/1TP8KB-QiajtjoWTX6-1QXMt0w3YLj9d9?usp=sharing
+```
+
 Tableau public view 
 ```bash
 https://public.tableau.com/app/profile/md.maruf.chowdhury/viz/Europetop10FootballLeague/Europeto10leaguesthisseason?publish=yes
