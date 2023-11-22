@@ -1,0 +1,181 @@
+Team,Goals_Scored,Goals_Conceded,Matches_Played,Wins,Draws,Losses,Country,League
+Augsburg,48.0,38.0,24.0,10.0,10.0,4.0,Germany,Bundesliga
+Bayern Munich,62.0,40.0,24.0,10.0,6.0,8.0,Germany,Bundesliga
+RB Leipzig,50.0,26.0,24.0,12.0,6.0,6.0,Germany,Bundesliga
+Freiburg,48.0,24.0,24.0,14.0,6.0,4.0,Germany,Bundesliga
+Heidenheim,54.0,32.0,24.0,16.0,4.0,4.0,Germany,Bundesliga
+FC Koln,40.0,24.0,24.0,10.0,8.0,6.0,Germany,Bundesliga
+Union Berlin,36.0,38.0,24.0,12.0,2.0,10.0,Germany,Bundesliga
+Werder Bremen,48.0,32.0,24.0,14.0,6.0,4.0,Germany,Bundesliga
+M''gladbach,46.0,46.0,24.0,6.0,10.0,8.0,Germany,Bundesliga
+Mainz,38.0,32.0,24.0,8.0,10.0,6.0,Germany,Bundesliga
+Dortmund,36.0,40.0,24.0,10.0,8.0,6.0,Germany,Bundesliga
+Stuttgart,56.0,30.0,24.0,14.0,2.0,8.0,Germany,Bundesliga
+Bochum,46.0,26.0,24.0,6.0,14.0,4.0,Germany,Bundesliga
+Darmstadt,56.0,36.0,24.0,10.0,6.0,8.0,Germany,Bundesliga
+Ein Frankfurt,28.0,28.0,24.0,6.0,14.0,4.0,Germany,Bundesliga
+Leverkusen,52.0,36.0,24.0,12.0,4.0,8.0,Germany,Bundesliga
+Hoffenheim,32.0,54.0,24.0,2.0,4.0,18.0,Germany,Bundesliga
+Wolfsburg,48.0,22.0,24.0,16.0,4.0,4.0,Germany,Bundesliga
+Arsenal,42.0,30.0,26.0,12.0,8.0,6.0,England,Premier League
+Crystal Palace,28.0,28.0,26.0,6.0,8.0,12.0,England,Premier League
+Everton,32.0,30.0,26.0,6.0,6.0,14.0,England,Premier League
+Bournemouth,46.0,30.0,26.0,12.0,8.0,6.0,England,Premier League
+Chelsea,30.0,44.0,26.0,4.0,10.0,12.0,England,Premier League
+Newcastle,48.0,32.0,26.0,16.0,6.0,4.0,England,Premier League
+Brentford,38.0,34.0,26.0,10.0,10.0,6.0,England,Premier League
+Aston Villa,70.0,22.0,26.0,18.0,4.0,4.0,England,Premier League
+Burnley,32.0,46.0,26.0,8.0,4.0,14.0,England,Premier League
+Liverpool,50.0,24.0,26.0,14.0,8.0,4.0,England,Premier League
+Wolves,34.0,38.0,24.0,10.0,6.0,8.0,England,Premier League
+Nott'm Forest,42.0,22.0,26.0,14.0,10.0,2.0,England,Premier League
+Tottenham,36.0,42.0,26.0,10.0,6.0,10.0,England,Premier League
+Brighton,52.0,40.0,26.0,10.0,10.0,6.0,England,Premier League
+Man City,50.0,38.0,26.0,14.0,4.0,8.0,England,Premier League
+Sheffield United,42.0,40.0,26.0,12.0,6.0,8.0,England,Premier League
+Fulham,34.0,26.0,24.0,10.0,6.0,8.0,England,Premier League
+Man United,28.0,30.0,26.0,12.0,2.0,12.0,England,Premier League
+Luton,38.0,26.0,26.0,10.0,8.0,8.0,England,Premier League
+West Ham,48.0,38.0,26.0,12.0,6.0,8.0,England,Premier League
+Cadiz,38.0,16.0,26.0,14.0,10.0,2.0,Spain,Laliga
+Alaves,34.0,24.0,28.0,16.0,8.0,4.0,Spain,Laliga
+Getafe,40.0,24.0,28.0,12.0,16.0,0.0,Spain,Laliga
+Vallecano,22.0,42.0,28.0,4.0,14.0,10.0,Spain,Laliga
+Celta,34.0,42.0,28.0,8.0,10.0,10.0,Spain,Laliga
+Villarreal,40.0,44.0,28.0,6.0,8.0,14.0,Spain,Laliga
+Ath Madrid,42.0,40.0,26.0,16.0,4.0,6.0,Spain,Laliga
+Barcelona,46.0,32.0,28.0,12.0,8.0,8.0,Spain,Laliga
+Almeria,54.0,46.0,28.0,10.0,8.0,10.0,Spain,Laliga
+Sevilla,40.0,30.0,26.0,8.0,14.0,4.0,Spain,Laliga
+Ath Bilbao,48.0,36.0,26.0,12.0,6.0,8.0,Spain,Laliga
+Girona,46.0,48.0,26.0,10.0,2.0,14.0,Spain,Laliga
+Osasuna,32.0,40.0,28.0,8.0,6.0,14.0,Spain,Laliga
+Mallorca,34.0,26.0,26.0,8.0,14.0,4.0,Spain,Laliga
+Sociedad,44.0,34.0,28.0,12.0,10.0,6.0,Spain,Laliga
+Betis,46.0,20.0,28.0,12.0,14.0,2.0,Spain,Laliga
+Valencia,46.0,22.0,28.0,14.0,8.0,6.0,Spain,Laliga
+Las Palmas,28.0,18.0,28.0,14.0,8.0,6.0,Spain,Laliga
+Granada,52.0,44.0,28.0,12.0,10.0,6.0,Spain,Laliga
+Real Madrid,42.0,32.0,28.0,12.0,6.0,10.0,Spain,Laliga
+Brest,28.0,20.0,24.0,10.0,8.0,6.0,France,League1
+Le Havre,28.0,22.0,26.0,6.0,14.0,6.0,France,League1
+Marseille,38.0,12.0,24.0,14.0,10.0,0.0,France,League1
+Reims,28.0,36.0,26.0,8.0,6.0,12.0,France,League1
+Nice,18.0,16.0,26.0,6.0,12.0,8.0,France,League1
+Lille,32.0,20.0,26.0,10.0,12.0,4.0,France,League1
+Monaco,46.0,32.0,26.0,12.0,8.0,6.0,France,League1
+Montpellier,30.0,28.0,24.0,8.0,10.0,6.0,France,League1
+Clermont,20.0,24.0,24.0,6.0,8.0,10.0,France,League1
+Toulouse,36.0,22.0,26.0,8.0,14.0,4.0,France,League1
+Lyon,24.0,32.0,24.0,6.0,10.0,8.0,France,League1
+Strasbourg,32.0,16.0,24.0,10.0,8.0,6.0,France,League1
+Rennes,38.0,26.0,26.0,8.0,14.0,4.0,France,League1
+Metz,36.0,24.0,26.0,8.0,10.0,8.0,France,League1
+Nantes,50.0,30.0,26.0,12.0,6.0,8.0,France,League1
+Lens,36.0,16.0,26.0,12.0,10.0,4.0,France,League1
+Paris SG,40.0,36.0,26.0,8.0,8.0,10.0,France,League1
+Lorient,44.0,28.0,26.0,12.0,12.0,2.0,France,League1
+Sassuolo,40.0,34.0,26.0,10.0,8.0,8.0,Italy,SerieA
+Frosinone,46.0,28.0,26.0,16.0,8.0,2.0,Italy,SerieA
+Atalanta,34.0,28.0,26.0,12.0,6.0,8.0,Italy,SerieA
+Fiorentina,36.0,36.0,26.0,10.0,6.0,10.0,Italy,SerieA
+Verona,24.0,22.0,24.0,12.0,4.0,8.0,Italy,SerieA
+Lazio,32.0,20.0,26.0,14.0,6.0,6.0,Italy,SerieA
+Empoli,30.0,22.0,26.0,10.0,4.0,12.0,Italy,SerieA
+Udinese,20.0,26.0,26.0,2.0,18.0,6.0,Italy,SerieA
+Bologna,28.0,18.0,24.0,10.0,12.0,2.0,Italy,SerieA
+Juventus,28.0,24.0,26.0,12.0,6.0,8.0,Italy,SerieA
+Monza,32.0,16.0,26.0,10.0,12.0,4.0,Italy,SerieA
+Inter,36.0,34.0,26.0,10.0,4.0,12.0,Italy,SerieA
+Torino,26.0,22.0,24.0,10.0,8.0,6.0,Italy,SerieA
+Cagliari,38.0,34.0,26.0,12.0,8.0,6.0,Italy,SerieA
+Salernitana,30.0,34.0,26.0,8.0,12.0,6.0,Italy,SerieA
+Roma,48.0,24.0,26.0,14.0,8.0,4.0,Italy,SerieA
+Napoli,28.0,46.0,26.0,4.0,8.0,14.0,Italy,SerieA
+Genoa,34.0,24.0,26.0,14.0,6.0,6.0,Italy,SerieA
+Milan,36.0,32.0,26.0,8.0,6.0,12.0,Italy,SerieA
+Lecce,30.0,28.0,24.0,10.0,10.0,4.0,Italy,SerieA
+AZ Alkmaar,38.0,26.0,24.0,10.0,6.0,8.0,Netherlands,Eredivisie
+Waalwijk,28.0,28.0,24.0,12.0,2.0,10.0,Netherlands,Eredivisie
+Vitesse,32.0,34.0,26.0,8.0,6.0,12.0,Netherlands,Eredivisie
+Zwolle,36.0,34.0,26.0,10.0,6.0,10.0,Netherlands,Eredivisie
+Ajax,54.0,36.0,24.0,12.0,8.0,4.0,Netherlands,Eredivisie
+Excelsior,40.0,42.0,26.0,6.0,14.0,6.0,Netherlands,Eredivisie
+Feyenoord,52.0,38.0,26.0,12.0,6.0,8.0,Netherlands,Eredivisie
+Fortuna Sittard,46.0,18.0,26.0,14.0,10.0,2.0,Netherlands,Eredivisie
+Twente,36.0,36.0,26.0,12.0,8.0,6.0,Netherlands,Eredivisie
+Utrecht,32.0,36.0,26.0,10.0,8.0,8.0,Netherlands,Eredivisie
+PSV Eindhoven,50.0,50.0,26.0,14.0,2.0,10.0,Netherlands,Eredivisie
+Almere City FC,30.0,38.0,26.0,6.0,10.0,10.0,Netherlands,Eredivisie
+NEC Nijmegen,50.0,34.0,24.0,8.0,12.0,4.0,Netherlands,Eredivisie
+Sparta Rotterdam,28.0,38.0,26.0,8.0,8.0,10.0,Netherlands,Eredivisie
+Heracles,56.0,38.0,26.0,14.0,8.0,4.0,Netherlands,Eredivisie
+Heerenveen,52.0,34.0,26.0,14.0,4.0,8.0,Netherlands,Eredivisie
+FC Volendam,50.0,36.0,26.0,14.0,6.0,6.0,Netherlands,Eredivisie
+GO Ahead Eagles,62.0,16.0,26.0,16.0,8.0,2.0,Netherlands,Eredivisie
+FK SOCHI,50.0,32.0,32.0,18.0,4.0,10.0,Russia,Russian_Premier_League
+Spartak M,54.0,32.0,32.0,20.0,8.0,4.0,Russia,Russian_Premier_League
+Baltika,42.0,24.0,32.0,20.0,8.0,4.0,Russia,Russian_Premier_League
+Dinamo Moscow,46.0,40.0,32.0,10.0,16.0,6.0,Russia,Russian_Premier_League
+Krylya Samara,72.0,32.0,32.0,20.0,10.0,2.0,Russia,Russian_Premier_League
+Lokomotiv M,40.0,40.0,32.0,10.0,14.0,8.0,Russia,Russian_Premier_League
+CSKA Moscow,56.0,38.0,32.0,14.0,16.0,2.0,Russia,Russian_Premier_League
+Rubin Kazan,28.0,42.0,32.0,8.0,10.0,14.0,Russia,Russian_Premier_League
+Nizhny Novgorod,42.0,14.0,32.0,22.0,8.0,2.0,Russia,Russian_Premier_League
+Ural,42.0,36.0,32.0,12.0,10.0,10.0,Russia,Russian_Premier_League
+Terek Grozny,42.0,30.0,32.0,12.0,8.0,12.0,Russia,Russian_Premier_League
+Gazovik Orenburg,48.0,32.0,32.0,14.0,10.0,8.0,Russia,Russian_Premier_League
+Rostov,68.0,32.0,32.0,18.0,12.0,2.0,Russia,Russian_Premier_League
+Fakel Voronezh,38.0,24.0,32.0,14.0,10.0,8.0,Russia,Russian_Premier_League
+Zenit St Petersburg,42.0,46.0,32.0,10.0,8.0,14.0,Russia,Russian_Premier_League
+Krasnodar,38.0,30.0,32.0,14.0,12.0,6.0,Russia,Russian_Premier_League
+Livingston,32.0,28.0,28.0,10.0,10.0,8.0,Scotland,SPL
+Aberdeen,40.0,28.0,24.0,8.0,8.0,8.0,Scotland,SPL
+St Mirren,42.0,30.0,26.0,10.0,10.0,6.0,Scotland,SPL
+Hearts,22.0,26.0,26.0,10.0,6.0,10.0,Scotland,SPL
+Rangers,26.0,38.0,26.0,10.0,2.0,14.0,Scotland,SPL
+Kilmarnock,40.0,20.0,28.0,16.0,10.0,2.0,Scotland,SPL
+Motherwell,36.0,36.0,28.0,10.0,8.0,10.0,Scotland,SPL
+Celtic,42.0,40.0,28.0,10.0,6.0,12.0,Scotland,SPL
+Hibernian,42.0,34.0,28.0,8.0,14.0,6.0,Scotland,SPL
+Ross County,34.0,30.0,26.0,8.0,10.0,8.0,Scotland,SPL
+Dundee,32.0,26.0,26.0,10.0,12.0,4.0,Scotland,SPL
+St Johnstone,32.0,20.0,26.0,10.0,12.0,4.0,Scotland,SPL
+Adana Demirspor,52.0,18.0,26.0,16.0,10.0,0.0,Turkey,Turkish Super Lig
+Ankaragucu,38.0,36.0,26.0,10.0,10.0,6.0,Turkey,Turkish Super Lig
+Hatayspor,38.0,34.0,26.0,10.0,12.0,4.0,Turkey,Turkish Super Lig
+Kasimpasa,40.0,48.0,26.0,8.0,8.0,10.0,Turkey,Turkish Super Lig
+Fatih Karagümrük,26.0,20.0,26.0,8.0,12.0,6.0,Turkey,Turkish Super Lig
+Sivasspor,28.0,32.0,26.0,4.0,12.0,10.0,Turkey,Turkish Super Lig
+Kayserispor,38.0,22.0,26.0,12.0,10.0,4.0,Turkey,Turkish Super Lig
+Alanyaspor,30.0,22.0,26.0,10.0,10.0,6.0,Turkey,Turkish Super Lig
+Rizespor,38.0,18.0,26.0,14.0,6.0,6.0,Turkey,Turkish Super Lig
+Pendikspor,32.0,48.0,26.0,6.0,10.0,10.0,Turkey,Turkish Super Lig
+Trabzonspor,40.0,30.0,26.0,16.0,4.0,6.0,Turkey,Turkish Super Lig
+Galatasaray,30.0,30.0,26.0,12.0,4.0,10.0,Turkey,Turkish Super Lig
+İstanbulspor,34.0,28.0,26.0,12.0,6.0,8.0,Turkey,Turkish Super Lig
+Buyuksehyr,28.0,20.0,26.0,10.0,8.0,8.0,Turkey,Turkish Super Lig
+Gaziantep BBK,34.0,24.0,26.0,16.0,2.0,8.0,Turkey,Turkish Super Lig
+Antalyaspor,30.0,30.0,26.0,12.0,8.0,6.0,Turkey,Turkish Super Lig
+Fenerbahce,40.0,38.0,26.0,10.0,4.0,12.0,Turkey,Turkish Super Lig
+Besiktas,44.0,20.0,26.0,18.0,4.0,4.0,Turkey,Turkish Super Lig
+Konyaspor,32.0,26.0,26.0,8.0,10.0,8.0,Turkey,Turkish Super Lig
+Samsunspor,36.0,20.0,26.0,16.0,6.0,4.0,Turkey,Turkish Super Lig
+Arouca,26.0,26.0,22.0,8.0,6.0,8.0,Portugal,Portugese Liga Nos
+Vizela,26.0,28.0,22.0,6.0,8.0,8.0,Portugal,Portugese Liga Nos
+Porto,20.0,26.0,22.0,8.0,2.0,12.0,Portugal,Portugese Liga Nos
+FC Famalicão,24.0,18.0,22.0,10.0,8.0,4.0,Portugal,Portugese Liga Nos
+Sp Lisbon,40.0,28.0,22.0,14.0,2.0,6.0,Portugal,Portugese Liga Nos
+Farense,40.0,30.0,22.0,12.0,2.0,8.0,Portugal,Portugese Liga Nos
+Boavista,40.0,38.0,22.0,8.0,6.0,8.0,Portugal,Portugese Liga Nos
+Benfica,34.0,30.0,22.0,10.0,2.0,10.0,Portugal,Portugese Liga Nos
+Gil Vicente,60.0,30.0,22.0,16.0,4.0,2.0,Portugal,Portugese Liga Nos
+Portimonense SC,44.0,32.0,22.0,10.0,4.0,8.0,Portugal,Portugese Liga Nos
+Estoril,48.0,30.0,22.0,14.0,2.0,6.0,Portugal,Portugese Liga Nos
+Chaves,54.0,32.0,22.0,12.0,2.0,8.0,Portugal,Portugese Liga Nos
+Sp Braga,52.0,44.0,22.0,8.0,4.0,10.0,Portugal,Portugese Liga Nos
+Moreirense,20.0,28.0,22.0,6.0,4.0,12.0,Portugal,Portugese Liga Nos
+Rio Ave,34.0,28.0,22.0,10.0,6.0,6.0,Portugal,Portugese Liga Nos
+Casa Pia,20.0,22.0,22.0,4.0,8.0,10.0,Portugal,Portugese Liga Nos
+Guimaraes,40.0,22.0,22.0,12.0,2.0,8.0,Portugal,Portugese Liga Nos
+Estrela,26.0,28.0,22.0,8.0,4.0,10.0,Portugal,Portugese Liga Nos
