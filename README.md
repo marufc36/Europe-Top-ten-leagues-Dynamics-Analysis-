@@ -10,9 +10,9 @@ This project aims to analyze the dynamics of the top 10 football leagues in Euro
 
 The dataset is structured with the following columns:
 
-1:Team
+1. Team
 
-2:Goals_Scored
+2. Goals_Scored
 
 3:Goals_Conceded
 
