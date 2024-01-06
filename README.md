@@ -10,23 +10,23 @@ This project aims to analyze the dynamics of the top 10 football leagues in Euro
 
 The dataset is structured with the following columns:
 
-1:Team
+1. Team
 
-2:Goals_Scored
+2. Goals_Scored
 
-3:Goals_Conceded
+3. Goals_Conceded
 
-4:Matches_Played
+4. Matches_Played
 
-5:Wins
+5. Wins
 
-6:Draws
+6. Draws
 
-7:Losses
+7. Losses
 
-8:Country
+8. Country
 
-9:League
+9. League
 
 
 
@@ -42,27 +42,37 @@ Data manipulation techniques were employed to clean and organize the dataset. Th
 
 A Tableau dashboard was created to visually represent key insights from the dataset. The dashboard includes the following analyses:
 
-**1:Highest Scoring Team in Europe**
+
+***1. Highest Scoring Team in Europe***
+
+
 
 ![E4CD90ED-FA42-421D-947C-D5333479B3AA_1_201_a](https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-/assets/151602012/a4ecfb7a-994e-4c61-ad6c-68c636ba26a0)
 
 
-**2:Most Goal-Conceding Team in Europe**
+**2. Most Goal-Conceding Team in Europe**
 
 
 <img width="1059" alt="Screenshot 2023-12-09 at 11 55 28 AM" src="https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-/assets/151602012/0df6057a-a4b2-4040-a1c4-d42151a2042f">
 
 
-**3:Team with the Most Wins**
+**3. Team with the Most Wins**
+
 <img width="1062" alt="Screenshot 2023-12-09 at 11 57 35 AM" src="https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-/assets/151602012/6aea3edb-6e2d-49a9-bd68-5392de28d3a9">
 
-**4:Team with the Most Losses**
+
+**4. Team with the Most Losses**
 
 <img width="1063" alt="Screenshot 2023-12-09 at 11 59 57 AM" src="https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-/assets/151602012/53d16ea0-a036-4b61-a9f3-c1219ff7afbc">
 
-**5:Toughest League in Terms of Goal Difference**
+
+**5. Toughest League in Terms of Goal Difference**
+
 <img width="892" alt="Screenshot 2023-12-09 at 12 02 57 PM" src="https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-/assets/151602012/e615c553-9372-4a9f-a601-d444adb14c96">
-The visualizations provide an intuitive understanding of team performances across different leagues.
+
+
+
+The visualizations provide an intuitive understanding of team performances across different leagues.Last visualisation give the insights about the thoughest league in Europe based on goal difference . I have created a calculated field from Goal scored and goal goal conceded and named it goal difference. 
 
 
 
