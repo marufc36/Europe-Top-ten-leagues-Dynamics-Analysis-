@@ -83,20 +83,20 @@ The visualizations provide an intuitive understanding of team performances acros
 ## How to Use
 
 
-1:Clone the repo
+1. Clone the repo
 
 ```bash
 git clone https://github.com/marufc36/Europe-Top-ten-leagues-Dynamics-Analysis-.git
 ```
-2:Activate virtual environment (Mac)
+2. Activate virtual environment (Mac)
 ```bash
 python3 -m venv .venv
 ```
-3:Install dependencies
+3. Install dependencies
 ```bash
 pip3 install requirements.txt
 ```
-4:Preprocess the data
+4. Preprocess the data
 ```bash
 https://colab.research.google.com/drive/1TP8KB-QiajtjoWTX6-1QXMt0w3YLj9d9?usp=sharing
 ```
