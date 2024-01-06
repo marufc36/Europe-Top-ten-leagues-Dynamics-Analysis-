@@ -72,7 +72,7 @@ A Tableau dashboard was created to visually represent key insights from the data
 
 
 
-The visualizations provide an intuitive understanding of team performances across different leagues.
+The visualizations provide an intuitive understanding of team performances across different leagues.Last visualisation give me insights about the thoughest league in Europe based on goal difference . I have created a calculated field from Goal scored and goal goal conceded and named it goal difference. 
 
 
 
