@@ -1,12 +1,12 @@
 # Europe-Top-Ten-Leagues-Dynamics-Analysis
 
-**Overview**
+## Overview
 
 This project aims to analyze the dynamics of the top 10 football leagues in Europe using data scraped from [Adam Choi's website](https://www.adamchoi.co.uk/teamgoals/detailed). The dataset includes information on goals scored, goals conceded, matches played, wins, draws, losses, country, and league for each team.
 
 
 
-**Dataset**
+## Dataset
 
 The dataset is structured with the following columns:
 
@@ -33,11 +33,11 @@ The dataset is structured with the following columns:
 
 
 
-**Data Manipulation**
+## Data Manipulation
 
 Data manipulation techniques were employed to clean and organize the dataset. This involved handling missing values, converting data types, and ensuring data consistency for accurate analysis.
 
-**Tableau Dashboard**
+## Tableau Dashboard
 
 
 A Tableau dashboard was created to visually represent key insights from the dataset. The dashboard includes the following analyses:
@@ -80,7 +80,7 @@ The visualizations provide an intuitive understanding of team performances acros
 
 
 
-**How to Use**
+## How to Use
 
 
 1:Clone the repo
@@ -94,7 +94,7 @@ python3 -m venv .venv
 ```
 3:Install dependencies
 ```bash
-pip3 install requirments.txt
+pip3 install requirements.txt
 ```
 4:Preprocess the data
 ```bash
